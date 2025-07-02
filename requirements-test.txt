@@ -1,0 +1,15 @@
+# Testing dependencies
+pytest>=6.0.0
+pytest-cov>=2.0.0
+pytest-mock>=3.0.0
+
+# Core dependencies
+pandas
+numpy
+scikit-learn
+python-dotenv
+
+# Optional LLM providers
+# groq
+# openai
+# ollama
